@@ -1,0 +1,73 @@
+{
+    "jewels": [{
+            "name": "BaubleBar Cassarah Beaded Multistrand Necklace",
+            "image": "images/necklace-blue.jpeg",
+            "description": "Strand upon strand of lustrous beads spotlight your face and neckline in this gorgeous statement necklace.",
+            "price": "171 RON",
+            "quantity": "100"
+        },
+        {
+            "name": "Simple Obsession Diamond Pendant Necklace",
+            "image": "images/necklace-white.jpeg",
+            "description": "A dazzling lenticular pendant set with 16 sparkling diamonds distinguishes a handcrafted statement necklace in 18-karat gold.",
+            "price": "2000 RON",
+            "quantity": "15"
+        },
+        {
+            "name": "Petal Chiffon Statement Earrings",
+            "image": "images/earrings-pink.jpeg",
+            "description": "Fluttery chiffon petals surround a pair of gorgeous, elegant statement earrings fashioned with tiny crystals for a hint of shine.",
+            "price": "217 RON",
+            "quantity": "50"
+        },
+        {
+            "name": "Kirsten Drop Earrings",
+            "image": "images/earrings-clear.jpeg",
+            "description": "Perfect for day or night, these diamond-shaped drop earrings put an eye-catching touch on any ensemble.",
+            "price": "339 RON",
+            "quantity": "25"
+        },
+        {
+            "name": "Lilith Cuff",
+            "image": "images/bracelet-gold.jpeg",
+            "description": "A pair of irregularly shaped stones adds organic interest to this signature brushed-metal cuff.",
+            "price": "300 RON",
+            "quantity": "10"
+        },
+        {
+            "name": "Aviva Diamond Bar Slider Bracelet",
+            "image": "images/bracelet-diamond.jpeg",
+            "description": "Handcrafted bar stations dotted with 42 pavé diamonds sparkle along this lovely 18-karat-gold bracelet that has a dainty, adjustable-length chain.",
+            "price": "4400 RON",
+            "quantity": "3"
+        },
+        {
+            "name": "Fiji Bar Friendship Diamond Chain Ring",
+            "image": "images/ring-fiji_diamond.jpeg",
+            "description": "A slim bar alight in diamond pavé centers a clever ring that has an adjustable chain so you can wear the style on any finger you like.",
+            "price": "1190 RON",
+            "quantity": "10"
+        },
+        {
+            "name": "Siren Medium Semiprecious Stone Stacking Ring",
+            "image": "images/ring-agate.jpeg",
+            "description": "Set in an organically formed vermeil setting, a beautiful rose-cut semiprecious stone takes center stage in a slender ring that easily stacks with other bands.",
+            "price": "590 RON",
+            "quantity": "80"
+        },
+        {
+            "name": "Pavé Diamond Round Engagement Ring Setting",
+            "image": "images/ring-diamond.jpeg",
+            "description": "Pavé diamonds—18 in all—add brilliant shine to the band of a handcrafted white-gold semi-mount ring topped by a four-prong solitaire setting.",
+            "price": "6800 RON",
+            "quantity": "5"
+        },
+        {
+            "name": "Baroque Keshi Pearl Ring",
+            "image": "images/ring-pearl.jpeg",
+            "description": "Nature's own handiwork is transformed into an elegant fashion accent via this cocktail ring showcasing a lustrous keshi pearl in a striking organic shape.",
+            "price": "1314 RON",
+            "quantity": "25"
+        }
+    ]
+}
