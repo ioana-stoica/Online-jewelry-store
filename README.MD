@@ -1,2 +1,5 @@
-Final project available at https://ioana-stoica.github.io/
-Repository available at https://github.com/ioana-stoica/Final-Project/tree/master/FinalProject
+# Online jewelry store
+
+This project was created using HTML, CSS, JavaScript and Firebase.
+
+Click here to see it:  https://ioana-stoica.github.io/Final-Project/
